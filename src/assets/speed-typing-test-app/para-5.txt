@@ -1,0 +1,49 @@
+AI has become a catchall term for applications that perform complex tasks that once required human input, such as 
+communicating with customers online or playing chess. The term is often used interchangeably with its subfields, 
+which include machine learning (ML) and deep learning. There are differences, however. For example, machine learning 
+is focused on building systems that learn or improve their performance based on the data they consume. It’s important 
+to note that although all machine learning is AI, not all AI is machine learning. To get the full value from AI, many 
+companies are making significant investments in data science teams. Data science combines statistics, computer science,
+ and business knowledge to extract value from various data sources. Developers use artificial intelligence to more 
+ efficiently perform tasks that are otherwise done manually, connect with customers, identify patterns, and solve 
+ problems. To get started with AI, developers should have a background in mathematics and feel comfortable with algorithms.
+When getting started with using artificial intelligence to build an application, it helps to start small. By building a 
+relatively simple project, such as tic-tac-toe, for example, you’ll learn the basics of artificial intelligence. Learning 
+by doing is a great way to level-up any skill, and artificial intelligence is no different. Once you’ve successfully 
+completed one or more small-scale projects, there are no limits for where artificial intelligence can take you.
+The central tenet of AI is to replicate—and then exceed—the way humans perceive and react to the world. It’s fast becoming 
+the cornerstone of innovation. Powered by various forms of machine learning that recognize patterns in data to enable 
+predictions, AI can add value to your business by Providing a more comprehensive understanding of the abundance of data available
+Relying on predictions to automate excessively complex or mundane tasks AI technology is improving enterprise performance 
+and productivity by automating processes or tasks that once required human power. AI can also make sense of data on a scale 
+that no human ever could. That capability can return substantial business benefits. For example, Netflix uses machine 
+learning to provide a level of personalization that helped the company grow its customer base by more than 25 percent.
+Most companies have made data science a priority and are investing in it heavily. A 2021 McKinsey survey on AI discovered 
+that companies reporting AI adoption in at least one function had increased to 56 percent, up from 50 percent a year earlier. 
+In addition, 27 percent of respondents reported at least 5% of earnings could be attributable to AI, up from 22 percent a year earlier.
+AI has value for most every function, business, and industry. It includes general and industry-specific applications such as
+Using transactional and demographic data to predict how much certain customers will spend over the course of their relationship 
+with a business (or customer lifetime value) Optimizing pricing based on customer behavior and preferences
+Using image recognition to analyze X-ray images for signs of cancer Three factors are driving the development of AI across industries.
+Affordable, high-performance computing capability is readily available. The abundance of commodity compute power in the cloud enables 
+easy access to affordable, high-performance computing power. Before this development, the only computing environments available for AI 
+were non-cloud-based and cost prohibitive. Large volumes of data are available for training. AI needs to be trained on lots of data 
+to make the right predictions. Ease of data labeling and affordable storage and processing of structured and unstructured data is 
+enabling more algorithm building and training. Applied AI delivers a competitive advantage. Enterprises are increasingly recognizing 
+the competitive advantage of applying AI insights to business objectives and are making it a businesswide priority. For example, targeted 
+recommendations provided by AI can help businesses make better decisions faster. Many of the features and capabilities of AI can lead to 
+lower costs, reduced risks, faster time to market, and much more. There are multiple stages in developing and deploying machine learning 
+models, including training and inferencing. AI training and inferencing refers to the process of experimenting with machine learning 
+models to solve a problem. For example, a machine learning engineer may experiment with different candidate models for a computer 
+vision problem, such as detecting bone fractures on X-ray images. To improve the accuracy of these models, the engineer would feed 
+data to the models and tune the parameters until they meet a predefined threshold. These training needs, measured by model complexity, 
+are growing exponentially every year. Infrastructure technologies key to AI training at scale include cluster networking, such as RDMA 
+and InfiniBand, bare metal GPU compute, and high performance storage. There are numerous success stories that prove AI’s value. Organizations 
+that add machine learning and cognitive interactions to traditional business processes and applications can greatly improve user experience 
+and boost productivity. However, there are some stumbling blocks. Few companies have deployed AI at scale, for several reasons. 
+For example, if they don’t use cloud computing, machine learning projects are often computationally expensive. They’re also complex 
+to build and require expertise that’s in high demand but short supply. Knowing when and where to incorporate these projects, as well
+ as when to turn to a third party, will help minimize these difficulties. The emergence of AI-powered solutions and tools means 
+ that more companies can take advantage of AI at a lower cost and in less time. Ready-to-use AI refers to the solutions, tools, 
+ and software that either have built-in AI capabilities or automate the process of algorithmic decision-making.
+Ready-to-use AI includes self-repairing autonomous databases and premade models for image recognition and text analysis on various datasets.
