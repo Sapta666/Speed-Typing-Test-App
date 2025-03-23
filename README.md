@@ -4,7 +4,8 @@ The Speed Typing Test App is a web-based application designed to help users impr
 
 ## Features
 
-- **User -Friendly Interface**: A clean and intuitive interface for entering Sudoku puzzles.
+- **User -Friendly Interface**: A clean and intuitive interface for using the 
+application.
 - **Responsive Design**: Works well on both desktop and mobile devices.
 
 ## Technologies Used
