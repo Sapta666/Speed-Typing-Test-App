@@ -1,27 +1,29 @@
-# DualNBack
+# Sudoku Solver
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
+The Speed Typing Test App is a web-based application designed to help users improve their typing speed and accuracy. Whether you're a beginner looking to enhance your skills or an experienced typist aiming to refine your speed, this app provides a fun and interactive way to practice.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **User -Friendly Interface**: A clean and intuitive interface for entering Sudoku puzzles.
+- **Responsive Design**: Works well on both desktop and mobile devices.
 
-## Code scaffolding
+## Technologies Used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular**: The front-end framework used to build the application.
+- **TypeScript**: The programming language used for developing the application.
+- **HTML/CSS**: For structuring and styling the application.
+- **jQuery**: (if applicable) For DOM manipulation and additional interactivity.
 
-## Build
+## Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Prerequisites
 
-## Running unit tests
+- Node.js (version 12 or later)
+- npm (Node Package Manager)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Installation
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sapta666/Speed-Typing-Test-App.git
+   cd Speed-Typing-Test-App
